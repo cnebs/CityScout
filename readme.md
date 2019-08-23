@@ -103,17 +103,18 @@ As a team, we gained experience with large-scale SQL manipulation, with utilizin
 Our team developed the following user stories to track deliverables and meet the expectations of our client:
 
 #### User Stories
-* As a user I should see suggestions for activities to do during my free time
-* As a user I would like to see suggestions for what to do during the next three days
-* As a user I do not want to be overwhelmed by choices on the initial visit to the page
-* As a user I want an application that integrates with my Google Calendar
-* As a user I do not want to see events that occur during times I am busy
-* As a user I should be able to click a button to add an event directly to my calendar
-* As a user I should be able to indicate my preference for what types of events I do and do not want to see
-* As a user I should be able to indicate times I am unavailable that are not already on my Google Calendar
-* As a user I should be able to reject a suggested event and be presented with a different event for that day
-* As a user I should be able to browse all events on a given day
-* As a user I should be able to browse all events available on all days
+As a user I...
+* should see suggestions for activities to do during my free time
+* would like to see suggestions for what to do during the next three days
+* do not want to be overwhelmed by choices on the initial visit to the page
+* want an application that integrates with my Google Calendar
+* do not want to see events that occur during times I am busy
+* should be able to click a button to add an event directly to my calendar
+* should be able to indicate my preference for what types of events I do and do not want to see
+* should be able to indicate times I am unavailable that are not already on my Google Calendar
+* should be able to reject a suggested event and be presented with a different event for that day
+* should be able to browse all events on a given day
+* should be able to browse all events available on all days
 
 ## Minimum Viable Product (MVP)
 
